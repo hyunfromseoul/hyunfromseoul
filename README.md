@@ -2,7 +2,7 @@
 <div>
 <img src="https://img.shields.io/badge/-Java-1E8CBE?style=flat&logo=Java"/>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/>
-<img src="https://img.shields.io/badge/-Javascript-FF7800?style=flat&logo=Javascript"/>
+<img src="https://img.shields.io/badge/-Javascript ES6-FF7800?style=flat&logo=Javascript"/>
 </div>
 제 능력은 이렇습니다:
 
