@@ -1,5 +1,8 @@
 ### 안녕하세요, 27세 고졸 비전공자 홍재현입니다.
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript"/>
+<img src="https://img.shields.io/badge/-Java-1E8CBE?style=flat&logo=Java"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring Boot"/>
+<img src="https://img.shields.io/badge/-Javascript-FF7800?style=flat&logo=Javascript"/>
 
 제 능력은 이렇습니다:
 
