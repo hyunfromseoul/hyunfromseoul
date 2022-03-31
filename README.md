@@ -1,9 +1,7 @@
-### Hi there 👋
+### 안녕하세요, 27세 고졸 비전공자 홍재현입니다.
+<img src="https://img.shields.io/badge/-Javascript ES6-#F7DF1E?style=flat&logo=Javascript">
 
-<!--
-**hyunfromseoul/hyunfromseoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+제 능력은 이렇습니다:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
