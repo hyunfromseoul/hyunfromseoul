@@ -7,18 +7,16 @@
   <br/>
   <img src="https://img.shields.io/badge/-Java-1E8CBE?style=flat&logo=Java"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/>
-  <br/>
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/>
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/>
-  <br/>
   <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX"/>
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache"/>
 
 
-
+<br>
 </div>
 제 능력은 이렇습니다:
-
+<br/>
 - HTML5, CSS3로 UX를 고려한 마크업이 가능합니다.
 - 기본적인 CRUD 게시판은 부담 없이 만들 수 있고, 무엇이든 배울 자세로 준비합니다.
 - 자바 진영 프레임워크, 스프링과 스프링 부트와 개발환경에 친화적입니다.
